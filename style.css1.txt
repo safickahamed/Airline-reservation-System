@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montez', cursive;
+}
+
+body{
+    background:  #fec107;
+    padding: 0  10px;
+}
+
+  .wrapper{
+      max-width: 500px;
+      width: 100%;
+      background: #fff;
